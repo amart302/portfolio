@@ -1,4 +1,3 @@
-/* Блок "main" */
 .main {
     max-width: 800px;
     margin: 0 auto;
@@ -10,11 +9,6 @@
     color: #ecf0f1;
     transition: transform 0.3s ease;
 }
-
-.main:hover {
-    transform: translateY(-5px);
-}
-
 
 .main__header {
     text-align: center;
